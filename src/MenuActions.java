@@ -88,7 +88,6 @@ public class MenuActions {
 		Thread.sleep(3000);
 		actions.moveToElement(el5);
 		Thread.sleep(3000);		
-
 	}
 
 }

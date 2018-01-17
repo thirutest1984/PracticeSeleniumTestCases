@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 public class DialogActions {
 	
-WebDriver driver;
+	WebDriver driver;
 	
 	public WebDriver driverMethod() throws Exception {
 		String path = "D:\\chromedriver_win32\\chromedriver.exe";
