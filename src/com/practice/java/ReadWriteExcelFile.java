@@ -1,3 +1,4 @@
+package com.practice.java;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -34,7 +35,7 @@ public class ReadWriteExcelFile {
 		wb.write(fo);
 		fo.flush();
 		fo.close();
-		wb.close();
+		wb.close(); 
 	}
 
 	public void readXLSFile() throws IOException {

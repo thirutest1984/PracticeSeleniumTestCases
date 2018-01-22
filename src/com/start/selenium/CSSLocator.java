@@ -1,3 +1,4 @@
+package com.start.selenium;
 
 public class CSSLocator {
 

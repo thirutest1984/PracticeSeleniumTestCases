@@ -1,3 +1,4 @@
+package com.practice.java;
 import java.util.Hashtable;
 
 public class HashTableOperations {
